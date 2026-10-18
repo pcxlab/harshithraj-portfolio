@@ -24,7 +24,7 @@ The image is intentionally shown in an editorial, monochrome crop; the source im
 
 ## Before publishing
 
-Replace each bracketed placeholder and the marked “coming soon” areas with confirmed information. In particular, add the preferred contact method, location/availability, MCA institution and dates, resume file, and project links/case studies. No DNS or hosting configuration is included or changed.
+Replace each bracketed placeholder and the marked “coming soon” areas with confirmed information. In particular, add the preferred contact method, location/availability, resume file, and project links/case studies. No DNS or hosting configuration is included or changed.
 
 ## Deployment
 
